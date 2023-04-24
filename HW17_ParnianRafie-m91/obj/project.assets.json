@@ -3476,11 +3476,31 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
+    "C:\\Users\\hufu\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
     "/Users/parnianrafei/.nuget/packages/": {}
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\HW17_ParnianRafie-m91.csproj",
+      "projectName": "HW17_ParnianRafie-m91",
+      "projectPath": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\HW17_ParnianRafie-m91.csproj",
+      "packagesPath": "C:\\Users\\hufu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\hufu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
       "projectUniqueName": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91.csproj",
       "projectName": "HW17_ParnianRafie-m91",
       "projectPath": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91.csproj",
@@ -3489,20 +3509,30 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/parnianrafei/.nuget/NuGet/NuGet.Config"
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+<<<<<<< HEAD
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+=======
         "/usr/local/share/dotnet/library-packs": {},
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+<<<<<<< HEAD
+            "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\Repositories\\Repositories.csproj"
+=======
             "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/Repositories/Repositories.csproj": {
               "projectPath": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/Repositories/Repositories.csproj"
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
             }
           }
         }
@@ -3543,7 +3573,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+=======
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       }
     }
   }

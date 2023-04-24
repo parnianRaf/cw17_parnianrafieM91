@@ -1,6 +1,27 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\AppService\\AppService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\AppCore\\AppCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\AppCore\\AppCore.csproj",
+        "projectName": "AppCore",
+        "projectPath": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\AppCore\\AppCore.csproj",
+        "packagesPath": "C:\\Users\\hufu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\AppCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hufu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
     "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/AppService/AppService.csproj": {}
   },
   "projects": {
@@ -15,12 +36,17 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/parnianrafei/.nuget/NuGet/NuGet.Config"
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+<<<<<<< HEAD
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+=======
           "/usr/local/share/dotnet/library-packs": {},
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,6 +80,28 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\AppService\\AppService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\AppService\\AppService.csproj",
+        "projectName": "AppService",
+        "projectPath": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\AppService\\AppService.csproj",
+        "packagesPath": "C:\\Users\\hufu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\AppService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hufu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
@@ -69,20 +117,30 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/parnianrafei/.nuget/NuGet/NuGet.Config"
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+<<<<<<< HEAD
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+=======
           "/usr/local/share/dotnet/library-packs": {},
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+<<<<<<< HEAD
+              "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\Repositories\\Repositories.csproj"
+=======
               "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/Repositories/Repositories.csproj": {
                 "projectPath": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/Repositories/Repositories.csproj"
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
               }
             }
           }
@@ -112,6 +170,28 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\Repositories\\Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\Repositories\\Repositories.csproj",
+        "projectName": "Repositories",
+        "projectPath": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\hufu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hufu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
@@ -127,20 +207,30 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/parnianrafei/.nuget/NuGet/NuGet.Config"
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+<<<<<<< HEAD
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+=======
           "/usr/local/share/dotnet/library-packs": {},
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+<<<<<<< HEAD
+              "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\UniContext\\UniContext.csproj": {
+                "projectPath": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\UniContext\\UniContext.csproj"
+=======
               "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/UniContext/UniContext.csproj": {
                 "projectPath": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/UniContext/UniContext.csproj"
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
               }
             }
           }
@@ -170,6 +260,28 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\UniContext\\UniContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\UniContext\\UniContext.csproj",
+        "projectName": "UniContext",
+        "projectPath": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\UniContext\\UniContext.csproj",
+        "packagesPath": "C:\\Users\\hufu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\UniContext\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hufu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
@@ -185,20 +297,30 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/parnianrafei/.nuget/NuGet/NuGet.Config"
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+<<<<<<< HEAD
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+=======
           "/usr/local/share/dotnet/library-packs": {},
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+<<<<<<< HEAD
+              "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\AppCore\\AppCore.csproj": {
+                "projectPath": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\AppCore\\AppCore.csproj"
+=======
               "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/AppCore/AppCore.csproj": {
                 "projectPath": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/AppCore/AppCore.csproj"
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
               }
             }
           }
@@ -240,7 +362,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+=======
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
         }
       }
     }

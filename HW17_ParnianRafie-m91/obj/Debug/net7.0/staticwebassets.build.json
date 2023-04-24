@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "Hash": "9s3tT68jhg4VhGoMNXLlypBb6M48fl9j2Ksh+mFfHuY=",
+=======
   "Hash": "6A5dCLYNSYUvYgcRv93RyqrnG16gcFVRhzpMWO9lcRk=",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
   "Source": "HW17_ParnianRafie-m91",
   "BasePath": "_content/HW17_ParnianRafie-m91",
   "Mode": "Default",
@@ -8,19 +12,32 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
+<<<<<<< HEAD
+      "Name": "HW17_ParnianRafie-m91\\wwwroot",
+      "Source": "HW17_ParnianRafie-m91",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "Name": "HW17_ParnianRafie-m91/wwwroot",
       "Source": "HW17_ParnianRafie-m91",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\obj\\Debug\\net7.0\\scopedcss\\bundle\\HW17_ParnianRafie-m91.styles.css",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+=======
       "Identity": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/obj/Debug/net7.0/scopedcss/bundle/HW17_ParnianRafie-m91.styles.css",
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Computed",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/obj/Debug/net7.0/scopedcss/bundle/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "HW17_ParnianRafie-m91.styles.css",
       "AssetKind": "All",
@@ -31,6 +48,15 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\obj\\Debug\\net7.0\\scopedcss\\bundle\\HW17_ParnianRafie-m91.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\HW17_ParnianRafie-m91.bundle.scp.css",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+=======
       "OriginalItemSpec": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/obj/Debug/net7.0/scopedcss/bundle/HW17_ParnianRafie-m91.styles.css"
     },
     {
@@ -38,6 +64,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Computed",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/obj/Debug/net7.0/scopedcss/projectbundle/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "HW17_ParnianRafie-m91.bundle.scp.css",
       "AssetKind": "All",
@@ -48,6 +75,15 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\HW17_ParnianRafie-m91.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\.DS_Store",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/obj/Debug/net7.0/scopedcss/projectbundle/HW17_ParnianRafie-m91.bundle.scp.css"
     },
     {
@@ -55,6 +91,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": ".DS_Store",
       "AssetKind": "All",
@@ -65,6 +102,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\.DS_Store"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\css\\site.css",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
@@ -72,6 +118,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -82,6 +129,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\favicon.ico",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
@@ -89,6 +145,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -99,6 +156,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\js\\site.js",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
@@ -106,6 +172,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -116,6 +183,151 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+      "BasePath": "_content/HW17_ParnianRafie-m91",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+      "BasePath": "_content/HW17_ParnianRafie-m91",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+      "BasePath": "_content/HW17_ParnianRafie-m91",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+      "BasePath": "_content/HW17_ParnianRafie-m91",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+      "BasePath": "_content/HW17_ParnianRafie-m91",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+      "BasePath": "_content/HW17_ParnianRafie-m91",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+      "BasePath": "_content/HW17_ParnianRafie-m91",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+      "BasePath": "_content/HW17_ParnianRafie-m91",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
@@ -123,6 +335,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -133,6 +346,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
@@ -140,6 +362,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -150,6 +373,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
@@ -157,6 +389,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -167,6 +400,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
@@ -174,6 +416,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -184,6 +427,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
@@ -191,6 +443,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -201,6 +454,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
@@ -208,6 +470,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -218,6 +481,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
@@ -225,6 +497,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -235,6 +508,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
@@ -242,6 +524,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -252,6 +535,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
@@ -259,6 +551,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -269,6 +562,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
@@ -276,6 +578,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -286,6 +589,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
@@ -293,6 +605,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -303,6 +616,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
@@ -310,6 +632,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -320,6 +643,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
@@ -327,6 +659,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -337,6 +670,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
@@ -344,6 +686,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -354,6 +697,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
@@ -361,6 +713,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -371,6 +724,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
@@ -378,6 +740,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -388,6 +751,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
@@ -395,6 +767,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -405,6 +778,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
@@ -412,6 +794,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -422,6 +805,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
@@ -429,6 +821,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -439,6 +832,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
@@ -446,6 +848,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -456,6 +859,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
@@ -463,6 +875,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -473,6 +886,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
@@ -480,6 +902,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -490,6 +913,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
@@ -497,6 +929,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -507,6 +940,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
@@ -514,6 +956,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -524,6 +967,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
@@ -667,6 +1119,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -677,6 +1130,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
@@ -684,6 +1146,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -694,6 +1157,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
@@ -701,6 +1173,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -711,6 +1184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
@@ -718,6 +1200,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -728,6 +1211,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
@@ -735,6 +1227,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -745,6 +1238,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
@@ -752,6 +1254,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -762,6 +1265,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
@@ -769,6 +1281,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -779,6 +1292,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
@@ -786,6 +1308,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -796,6 +1319,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
@@ -803,6 +1335,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -813,6 +1346,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
@@ -820,6 +1362,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -830,6 +1373,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
@@ -837,6 +1389,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -847,6 +1400,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
@@ -854,6 +1416,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -864,6 +1427,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
@@ -871,6 +1443,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -881,6 +1454,168 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+      "BasePath": "_content/HW17_ParnianRafie-m91",
+      "RelativePath": "lib/jquery/dist/jquery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+      "BasePath": "_content/HW17_ParnianRafie-m91",
+      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+      "BasePath": "_content/HW17_ParnianRafie-m91",
+      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+      "BasePath": "_content/HW17_ParnianRafie-m91",
+      "RelativePath": "lib/jquery/LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+      "BasePath": "_content/HW17_ParnianRafie-m91",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+      "BasePath": "_content/HW17_ParnianRafie-m91",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+      "BasePath": "_content/HW17_ParnianRafie-m91",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+      "BasePath": "_content/HW17_ParnianRafie-m91",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+      "BasePath": "_content/HW17_ParnianRafie-m91",
+      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
@@ -888,6 +1623,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -898,6 +1634,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
@@ -905,6 +1650,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -915,6 +1661,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\HW17_ParnianRafie-m91\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
@@ -922,6 +1677,7 @@
       "SourceId": "HW17_ParnianRafie-m91",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
       "BasePath": "_content/HW17_ParnianRafie-m91",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -932,6 +1688,9 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+=======
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
@@ -1086,6 +1845,7 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
     }
   ]
 }

@@ -32,3 +32,23 @@
 /Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/UniContext/obj/Debug/net7.0/UniContext.pdb
 /Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/UniContext/obj/Debug/net7.0/UniContext.genruntimeconfig.cache
 /Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/UniContext/obj/Debug/net7.0/ref/UniContext.dll
+<<<<<<< HEAD
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\UniContext\bin\Debug\net7.0\UniContext.deps.json
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\UniContext\bin\Debug\net7.0\UniContext.runtimeconfig.json
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\UniContext\bin\Debug\net7.0\UniContext.dll
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\UniContext\bin\Debug\net7.0\UniContext.pdb
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\UniContext\bin\Debug\net7.0\AppCore.dll
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\UniContext\bin\Debug\net7.0\AppCore.pdb
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\UniContext\obj\Debug\net7.0\UniContext.csproj.AssemblyReference.cache
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\UniContext\obj\Debug\net7.0\UniContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\UniContext\obj\Debug\net7.0\UniContext.AssemblyInfoInputs.cache
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\UniContext\obj\Debug\net7.0\UniContext.AssemblyInfo.cs
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\UniContext\obj\Debug\net7.0\UniContext.csproj.CoreCompileInputs.cache
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\UniContext\obj\Debug\net7.0\UniContext.csproj.CopyComplete
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\UniContext\obj\Debug\net7.0\UniContext.dll
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\UniContext\obj\Debug\net7.0\refint\UniContext.dll
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\UniContext\obj\Debug\net7.0\UniContext.pdb
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\UniContext\obj\Debug\net7.0\UniContext.genruntimeconfig.cache
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\UniContext\obj\Debug\net7.0\ref\UniContext.dll
+=======
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d

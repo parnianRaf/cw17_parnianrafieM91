@@ -22,3 +22,18 @@
 /Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/AppCore/obj/Debug/net7.0/refint/AppCore.dll
 /Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/AppCore/obj/Debug/net7.0/AppCore.pdb
 /Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/AppCore/obj/Debug/net7.0/ref/AppCore.dll
+<<<<<<< HEAD
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\AppCore\bin\Debug\net7.0\AppCore.deps.json
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\AppCore\bin\Debug\net7.0\AppCore.dll
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\AppCore\bin\Debug\net7.0\AppCore.pdb
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\AppCore\obj\Debug\net7.0\AppCore.csproj.AssemblyReference.cache
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\AppCore\obj\Debug\net7.0\AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\AppCore\obj\Debug\net7.0\AppCore.AssemblyInfoInputs.cache
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\AppCore\obj\Debug\net7.0\AppCore.AssemblyInfo.cs
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\AppCore\obj\Debug\net7.0\AppCore.csproj.CoreCompileInputs.cache
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\AppCore\obj\Debug\net7.0\AppCore.dll
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\AppCore\obj\Debug\net7.0\refint\AppCore.dll
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\AppCore\obj\Debug\net7.0\AppCore.pdb
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\AppCore\obj\Debug\net7.0\ref\AppCore.dll
+=======
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d

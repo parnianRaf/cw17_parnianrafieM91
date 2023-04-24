@@ -32,3 +32,23 @@
 /Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/Repositories/obj/Debug/net7.0/refint/Repositories.dll
 /Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/Repositories/obj/Debug/net7.0/Repositories.pdb
 /Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/Repositories/obj/Debug/net7.0/ref/Repositories.dll
+<<<<<<< HEAD
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\Repositories\bin\Debug\net7.0\Repositories.deps.json
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\Repositories\bin\Debug\net7.0\Repositories.dll
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\Repositories\bin\Debug\net7.0\Repositories.pdb
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\Repositories\bin\Debug\net7.0\AppCore.dll
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\Repositories\bin\Debug\net7.0\UniContext.dll
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\Repositories\bin\Debug\net7.0\UniContext.pdb
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\Repositories\bin\Debug\net7.0\AppCore.pdb
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\Repositories\obj\Debug\net7.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\Repositories\obj\Debug\net7.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfo.cs
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\Repositories\obj\Debug\net7.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\Repositories\obj\Debug\net7.0\Repositories.csproj.CopyComplete
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\Repositories\obj\Debug\net7.0\Repositories.dll
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\Repositories\obj\Debug\net7.0\refint\Repositories.dll
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\Repositories\obj\Debug\net7.0\Repositories.pdb
+C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\Repositories\obj\Debug\net7.0\ref\Repositories.dll
+=======
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d

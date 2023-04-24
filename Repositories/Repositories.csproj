@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
@@ -10,3 +11,17 @@
     <ProjectReference Include="..\UniContext\UniContext.csproj" />
   </ItemGroup>
 </Project>
+=======
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UniContext\UniContext.csproj" />
+  </ItemGroup>
+</Project>
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
