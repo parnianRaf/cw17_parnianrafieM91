@@ -160,6 +160,7 @@
 /Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/obj/Debug/net7.0/HW17_ParnianRafie-m91.pdb
 /Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/obj/Debug/net7.0/HW17_ParnianRafie-m91.genruntimeconfig.cache
 /Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/obj/Debug/net7.0/ref/HW17_ParnianRafie-m91.dll
+<<<<<<< HEAD
 C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\HW17_ParnianRafie-m91\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\HW17_ParnianRafie-m91\bin\Debug\net7.0\appsettings.json
 C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\HW17_ParnianRafie-m91\bin\Debug\net7.0\HW17_ParnianRafie-m91.staticwebassets.runtime.json
@@ -241,3 +242,5 @@ C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\HW17_ParnianRafie-m91\obj\Debug\
 C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\HW17_ParnianRafie-m91\obj\Debug\net7.0\HW17_ParnianRafie-m91.pdb
 C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\HW17_ParnianRafie-m91\obj\Debug\net7.0\HW17_ParnianRafie-m91.genruntimeconfig.cache
 C:\Users\hufu\Desktop\cw17_parnianrafieM91-main\HW17_ParnianRafie-m91\obj\Debug\net7.0\ref\HW17_ParnianRafie-m91.dll
+=======
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d

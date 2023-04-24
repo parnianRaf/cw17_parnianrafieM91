@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "1Df+e7K/Zku16srcnU2YRMmKRIBB6m1F1KnkzMwyJ8aNCPts8Aum2bbby0RHAe2R1p4IGV0nk3XLgg1ysM4yQA==",
   "success": true,
   "projectFilePath": "C:\\Users\\hufu\\Desktop\\cw17_parnianrafieM91-main\\AppCore\\AppCore.csproj",
+=======
+  "dgSpecHash": "CEMn23AbEX41//RTlT1oIzVqYAMm/Evoak0VdOtfpux6VKyHqh9zGdyU8Kw2IzVhdAPfxJGugjYQFJh1eYWLog==",
+  "success": true,
+  "projectFilePath": "/Users/parnianrafei/Desktop/HW17_ParnianRafie-m91/AppCore/AppCore.csproj",
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿using AppCore.Entities;
+=======
+﻿using AppCore.Entities;
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
 using Microsoft.EntityFrameworkCore;
 
 namespace UniContext;
@@ -8,6 +12,7 @@ public class UniDbContext : DbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
+<<<<<<< HEAD
         modelBuilder.Entity<StudentCourse>(b =>
         {
             b.HasKey(key => new { key.StudentId, key.CourseId });
@@ -25,6 +30,8 @@ public class UniDbContext : DbContext
 
         });
 
+=======
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
     }
 
 

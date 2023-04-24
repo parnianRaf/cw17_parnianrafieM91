@@ -1,3 +1,7 @@
 ﻿<Project>
+<<<<<<< HEAD
   <Import Project="..\buildMultiTargeting\HW17_ParnianRafie-m91.props" />
+=======
+  <Import Project="../buildMultiTargeting/HW17_ParnianRafie-m91.props" />
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
 </Project>

@@ -1,6 +1,11 @@
 ﻿
+<<<<<<< HEAD
 using AppService;
 using Microsoft.AspNetCore.Hosting;
+=======
+using AppService;
+using Microsoft.AspNetCore.Hosting;
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Repositories;
@@ -10,7 +15,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+<<<<<<< HEAD
 builder.Services.AddDbContext<UniDbContext>(x => x.UseSqlServer(builder.Configuration.GetConnectionString("hey")));
+=======
+builder.Services.AddDbContext<UniDbContext>(x => x.UseSqlServer("name=ConnectionStrings:DefaultConnection"));
+>>>>>>> 025fcf748e3ea192e10b0286c53b67a8e929d44d
 builder.Services.AddScoped<IRepository, Repository>();
 //builder.Services.AddScoped<IService, Service>();
 var app = builder.Build();
